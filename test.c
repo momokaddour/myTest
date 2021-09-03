@@ -16,6 +16,10 @@ int main () {
     int h = 12; 
     int i = g * h;
     printf("%d * %d = %d\n", g, h, i);
-    printf("Done Done DONE!!!\n");
+    int j = 12; 
+    int k = 4; 
+    int l = 12/4; 
+    printf("%d / %d = %d\n", j, k, l);
+    printf("Done Done DONE!!!!\n");
     return 0;
 }
