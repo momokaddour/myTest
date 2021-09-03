@@ -12,6 +12,10 @@ int main () {
     int e = 5; 
     int f = d - e;
     printf("%d - %d = %d\n", d, e,f);
+    int g = 12; 
+    int h = 12; 
+    int i = g * h;
+    printf("%d * %d = %d\n", g, h, i);
     printf("Done Done DONE!!!\n");
     return 0;
 }
