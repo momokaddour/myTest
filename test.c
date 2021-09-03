@@ -11,6 +11,7 @@ int main () {
     int d = 10; 
     int e = 5; 
     int f = d - e;
-    printf("%d - %d = %d", d, e,f);
+    printf("%d - %d = %d\n", d, e,f);
+    printf("Done Done DONE!!!\n");
     return 0;
 }
